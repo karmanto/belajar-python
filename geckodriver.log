@@ -1,0 +1,46 @@
+1665304048939	geckodriver	INFO	Listening on 127.0.0.1:55405
+1665304051956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55406" "-no-remote" "-profile" "C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofileeLgEl3"
+1665304052428	Marionette	INFO	Marionette enabled
+1665304052435	Marionette	INFO	Listening on port 55412
+WebDriver BiDi listening on ws://127.0.0.1:55406
+1665304052565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofileeLgEl3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55406/devtools/browser/a040a5b1-ad1f-4baa-bdfe-6a1f1a69656d
+JavaScript warning: https://www.tokopedia.com/d1-kF65X/ETO8DRX/4u2b0F3/Nj/G5izVcGfku/bXBh/I0/0QSE5fSC4B, line 1: unreachable code after return statement
+JavaScript warning: https://www.tokopedia.com/d1-kF65X/ETO8DRX/4u2b0F3/Nj/G5izVcGfku/bXBh/I0/0QSE5fSC4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tokopedia.com/d1-kF65X/ETO8DRX/4u2b0F3/Nj/G5izVcGfku/bXBh/I0/0QSE5fSC4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665304387236	geckodriver	INFO	Listening on 127.0.0.1:55643
+1665304390296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55644" "-no-remote" "-profile" "C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofile009bCJ"
+1665304390710	Marionette	INFO	Marionette enabled
+1665304390719	Marionette	INFO	Listening on port 55649
+WebDriver BiDi listening on ws://127.0.0.1:55644
+1665304390957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofile009bCJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55644/devtools/browser/b9ca414d-5e28-43cf-8436-ef3f3b7b6f2c
+JavaScript warning: https://www.tokopedia.com/d1-kF65X/ETO8DRX/4u2b0F3/Nj/G5izVcGfku/bXBh/I0/0QSE5fSC4B, line 1: unreachable code after return statement
+JavaScript warning: https://www.tokopedia.com/d1-kF65X/ETO8DRX/4u2b0F3/Nj/G5izVcGfku/bXBh/I0/0QSE5fSC4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tokopedia.com/d1-kF65X/ETO8DRX/4u2b0F3/Nj/G5izVcGfku/bXBh/I0/0QSE5fSC4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665318114402	geckodriver	INFO	Listening on 127.0.0.1:53942
+1665318117462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53943" "-no-remote" "-profile" "C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofilepHZKC0"
+1665318117905	Marionette	INFO	Marionette enabled
+1665318117912	Marionette	INFO	Listening on port 53948
+WebDriver BiDi listening on ws://127.0.0.1:53943
+1665318118047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofilepHZKC0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53943/devtools/browser/a5b91b85-525a-4ae4-af2e-5035ac9e255b
+JavaScript warning: https://www.tokopedia.com/d1-kF65X/ETO8DRX/4u2b0F3/Nj/G5izVcGfku/bXBh/I0/0QSE5fSC4B, line 1: unreachable code after return statement
+JavaScript warning: https://www.tokopedia.com/d1-kF65X/ETO8DRX/4u2b0F3/Nj/G5izVcGfku/bXBh/I0/0QSE5fSC4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tokopedia.com/d1-kF65X/ETO8DRX/4u2b0F3/Nj/G5izVcGfku/bXBh/I0/0QSE5fSC4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665616149162	geckodriver	INFO	Listening on 127.0.0.1:60103
+1665616152248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60104" "-no-remote" "-profile" "C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofile2Ax2AF"
+1665616152736	Marionette	INFO	Marionette enabled
+1665616152744	Marionette	INFO	Listening on port 60109
+WebDriver BiDi listening on ws://127.0.0.1:60104
+1665616152891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofile2Ax2AF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60104/devtools/browser/0e0b1be6-bcb4-46b4-8cb2-ca6e6ace39fe
+JavaScript warning: https://www.tokopedia.com/3ud0Lc/Zkp/-5n/otVXhA/YkcaDhDm/Q3xo/OCN2WwQ/3S0cB, line 1: unreachable code after return statement
+JavaScript warning: https://www.tokopedia.com/3ud0Lc/Zkp/-5n/otVXhA/YkcaDhDm/Q3xo/OCN2WwQ/3S0cB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tokopedia.com/3ud0Lc/Zkp/-5n/otVXhA/YkcaDhDm/Q3xo/OCN2WwQ/3S0cB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665616221414	Marionette	INFO	Stopped listening on port 60109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
